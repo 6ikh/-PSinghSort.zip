@@ -1,8 +1,7 @@
 Running the Python and Perl sort files are very easy and I will walk you through it:
 
 First, for running the python file "sort.py", all you have to input is: "python3 sort.py" and click the enter button.  
-Python3 in front of the file name is necessary as the program will not work without it. It defines which verison of Python you want 
-to use to run the program. 
+Python3 in front of the file name is necessary as the program will not work without it. It defines which verison of Python you want to use to run the program. 
 
 For running the Perl file, you will need to input "perl sort.pl" and click the enter button. 
 Including the word "perl" in front is neccessary as the program will not work without it. The program will not allow you to run the code using "./sort.pl" 
